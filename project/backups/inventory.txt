@@ -1,0 +1,16 @@
+# Backup Inventory
+
+The following files have been backed up:
+
+- Mission Ford Cost Book effective 4.2.25 copy.pdf (8118563 bytes)
+- Mission Ford Cost Book effective 4.2.25.json (596193 bytes)
+- Protect-Retail-MI-April25.pdf (2084039 bytes)
+- Protect-Retail-MI-json.json (760365 bytes)
+- Rating Export-Mission Ford of Dearborn-2025-05-16-0304.xls (18944 bytes)
+- Screen Shot 2025-05-20 at 10.30.49 AM.png (152648 bytes)
+- Screen Shot 2025-05-20 at 10.31.01 AM.png (93189 bytes)
+- Screen Shot 2025-05-20 at 10.31.17 AM.png (128176 bytes)
+- Screen Shot 2025-05-20 at 10.31.24 AM.png (49445 bytes)
+- Screen Shot 2025-05-20 at 10.32.01 AM.png (144671 bytes)
+- Screen Shot 2025-05-20 at 10.32.34 AM.png (69594 bytes)
+- Screen Shot 2025-05-20 at 11.20.06 AM.png (35222 bytes)

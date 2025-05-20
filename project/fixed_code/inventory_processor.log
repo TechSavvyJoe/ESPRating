@@ -1,0 +1,86 @@
+2025-05-20 15:41:55,805 - inventory_processor - INFO - Successfully read inventory file: ../data/problematic_inventory/problematic_inventory.xlsx
+2025-05-20 15:43:05,246 - inventory_processor - INFO - Successfully read inventory file: ../data/problematic_inventory/problematic_inventory.xlsx
+2025-05-20 15:43:05,312 - inventory_processor - INFO - Successfully saved processed inventory to: ../analysis/test_results/problematic/processed_inventory.xlsx
+2025-05-20 15:43:05,317 - upload_handler - INFO - Skipped 5 records with issues
+2025-05-20 15:43:05,317 - upload_handler - INFO - Uploading 0 records...
+2025-05-20 15:43:05,317 - upload_handler - INFO - Successfully uploaded 0 records
+2025-05-20 15:43:05,318 - upload_handler - ERROR - Error saving upload results: Object of type int64 is not JSON serializable
+2025-05-20 15:43:05,318 - inventory_processor - INFO - Successfully generated summary report: ../analysis/test_results/problematic/upload_summary.md
+2025-05-20 15:43:05,343 - inventory_processor - INFO - Successfully read inventory file: ../data/sample_inventory/correct_inventory.xlsx
+2025-05-20 15:43:05,402 - inventory_processor - INFO - Successfully saved processed inventory to: ../analysis/test_results/correct/processed_inventory.xlsx
+2025-05-20 15:43:05,405 - upload_handler - INFO - Skipped 1 records with issues
+2025-05-20 15:43:05,405 - upload_handler - INFO - Uploading 30 records...
+2025-05-20 15:43:05,405 - upload_handler - INFO - Successfully uploaded 30 records
+2025-05-20 15:43:05,406 - upload_handler - INFO - Successfully saved upload results to: ../analysis/test_results/correct/upload_results.json
+2025-05-20 15:43:05,406 - inventory_processor - INFO - Successfully generated summary report: ../analysis/test_results/correct/upload_summary.md
+2025-05-20 15:44:26,056 - inventory_processor - INFO - Successfully read inventory file: ../data/problematic_inventory/problematic_inventory.xlsx
+2025-05-20 15:44:26,143 - inventory_processor - INFO - Successfully saved processed inventory to: ../analysis/test_results/problematic/processed_inventory.xlsx
+2025-05-20 15:44:26,146 - upload_handler - INFO - Skipped 5 records with issues
+2025-05-20 15:44:26,146 - upload_handler - INFO - Uploading 0 records...
+2025-05-20 15:44:26,146 - upload_handler - INFO - Successfully uploaded 0 records
+2025-05-20 15:44:26,146 - upload_handler - ERROR - Error saving upload results: Object of type int64 is not JSON serializable
+2025-05-20 15:44:26,147 - inventory_processor - INFO - Successfully generated summary report: ../analysis/test_results/problematic/upload_summary.md
+2025-05-20 15:44:26,175 - inventory_processor - INFO - Successfully read inventory file: ../data/sample_inventory/correct_inventory.xlsx
+2025-05-20 15:44:26,213 - inventory_processor - INFO - Successfully saved processed inventory to: ../analysis/test_results/correct/processed_inventory.xlsx
+2025-05-20 15:44:26,215 - upload_handler - INFO - Skipped 1 records with issues
+2025-05-20 15:44:26,216 - upload_handler - INFO - Uploading 30 records...
+2025-05-20 15:44:26,216 - upload_handler - INFO - Successfully uploaded 30 records
+2025-05-20 15:44:26,216 - upload_handler - INFO - Successfully saved upload results to: ../analysis/test_results/correct/upload_results.json
+2025-05-20 15:44:26,217 - inventory_processor - INFO - Successfully generated summary report: ../analysis/test_results/correct/upload_summary.md
+2025-05-20 15:45:56,823 - inventory_processor - INFO - Successfully read inventory file: ../data/problematic_inventory/problematic_inventory.xlsx
+2025-05-20 15:45:56,957 - inventory_processor - INFO - Successfully saved processed inventory to: ../analysis/test_results/problematic/processed_inventory.xlsx
+2025-05-20 15:45:56,961 - upload_handler - INFO - Skipped 5 records with issues
+2025-05-20 15:45:56,962 - upload_handler - INFO - Uploading 0 records...
+2025-05-20 15:45:56,962 - upload_handler - INFO - Successfully uploaded 0 records
+2025-05-20 15:45:56,963 - upload_handler - INFO - Successfully saved upload results to: ../analysis/test_results/problematic/upload_results.json
+2025-05-20 15:45:56,964 - inventory_processor - INFO - Successfully generated summary report: ../analysis/test_results/problematic/upload_summary.md
+2025-05-20 15:45:57,024 - inventory_processor - INFO - Successfully read inventory file: ../data/sample_inventory/correct_inventory.xlsx
+2025-05-20 15:45:57,115 - inventory_processor - INFO - Successfully saved processed inventory to: ../analysis/test_results/correct/processed_inventory.xlsx
+2025-05-20 15:45:57,118 - upload_handler - INFO - Skipped 1 records with issues
+2025-05-20 15:45:57,119 - upload_handler - INFO - Uploading 30 records...
+2025-05-20 15:45:57,119 - upload_handler - INFO - Successfully uploaded 30 records
+2025-05-20 15:45:57,120 - upload_handler - INFO - Successfully saved upload results to: ../analysis/test_results/correct/upload_results.json
+2025-05-20 15:45:57,121 - inventory_processor - INFO - Successfully generated summary report: ../analysis/test_results/correct/upload_summary.md
+2025-05-20 15:52:19,944 - inventory_processor - INFO - Successfully read inventory file: ../data/problematic_inventory/problematic_inventory.xlsx
+2025-05-20 15:52:20,017 - inventory_processor - INFO - Successfully saved processed inventory to: ../analysis/test_results/problematic/processed_inventory.xlsx
+2025-05-20 15:52:20,019 - upload_handler - INFO - Skipped 5 records with issues
+2025-05-20 15:52:20,019 - upload_handler - INFO - Uploading 0 records...
+2025-05-20 15:52:20,020 - upload_handler - INFO - Successfully uploaded 0 records
+2025-05-20 15:52:20,020 - upload_handler - INFO - Successfully saved upload results to: ../analysis/test_results/problematic/upload_results.json
+2025-05-20 15:52:20,020 - inventory_processor - INFO - Successfully generated summary report: ../analysis/test_results/problematic/upload_summary.md
+2025-05-20 15:52:20,054 - inventory_processor - INFO - Successfully read inventory file: ../data/sample_inventory/correct_inventory.xlsx
+2025-05-20 15:52:20,099 - inventory_processor - INFO - Successfully saved processed inventory to: ../analysis/test_results/correct/processed_inventory.xlsx
+2025-05-20 15:52:20,101 - upload_handler - INFO - Skipped 1 records with issues
+2025-05-20 15:52:20,102 - upload_handler - INFO - Uploading 30 records...
+2025-05-20 15:52:20,102 - upload_handler - INFO - Successfully uploaded 30 records
+2025-05-20 15:52:20,102 - upload_handler - INFO - Successfully saved upload results to: ../analysis/test_results/correct/upload_results.json
+2025-05-20 15:52:20,102 - inventory_processor - INFO - Successfully generated summary report: ../analysis/test_results/correct/upload_summary.md
+2025-05-20 15:52:20,123 - inventory_processor - ERROR - The inventory file is empty
+2025-05-20 15:52:20,205 - inventory_processor - INFO - Successfully read inventory file: ../analysis/test_results/edge_cases/missing_columns/missing_columns.xlsx
+2025-05-20 15:52:20,239 - inventory_processor - INFO - Successfully saved processed inventory to: ../analysis/test_results/edge_cases/missing_columns/processed_inventory.xlsx
+2025-05-20 15:52:20,242 - upload_handler - INFO - Skipped 1 records with issues
+2025-05-20 15:52:20,242 - upload_handler - INFO - Uploading 30 records...
+2025-05-20 15:52:20,242 - upload_handler - INFO - Successfully uploaded 30 records
+2025-05-20 15:52:20,242 - upload_handler - INFO - Successfully saved upload results to: ../analysis/test_results/edge_cases/missing_columns/upload_results.json
+2025-05-20 15:52:20,243 - inventory_processor - INFO - Successfully generated summary report: ../analysis/test_results/edge_cases/missing_columns/upload_summary.md
+2025-05-20 15:52:20,329 - inventory_processor - INFO - Successfully read inventory file: ../analysis/test_results/edge_cases/all_prices_below_cost/all_prices_below_cost.xlsx
+2025-05-20 15:52:20,383 - inventory_processor - INFO - Successfully saved processed inventory to: ../analysis/test_results/edge_cases/all_prices_below_cost/processed_inventory.xlsx
+2025-05-20 15:52:20,385 - upload_handler - INFO - Skipped 31 records with issues
+2025-05-20 15:52:20,385 - upload_handler - INFO - Uploading 0 records...
+2025-05-20 15:52:20,385 - upload_handler - INFO - Successfully uploaded 0 records
+2025-05-20 15:52:20,385 - upload_handler - INFO - Successfully saved upload results to: ../analysis/test_results/edge_cases/all_prices_below_cost/upload_results.json
+2025-05-20 15:52:20,386 - inventory_processor - INFO - Successfully generated summary report: ../analysis/test_results/edge_cases/all_prices_below_cost/upload_summary.md
+2025-05-20 15:52:20,472 - inventory_processor - INFO - Successfully read inventory file: ../analysis/test_results/edge_cases/mixed_valid_invalid/mixed_valid_invalid.xlsx
+2025-05-20 15:52:20,521 - inventory_processor - INFO - Successfully saved processed inventory to: ../analysis/test_results/edge_cases/mixed_valid_invalid/processed_inventory.xlsx
+2025-05-20 15:52:20,524 - upload_handler - INFO - Skipped 17 records with issues
+2025-05-20 15:52:20,524 - upload_handler - INFO - Uploading 14 records...
+2025-05-20 15:52:20,524 - upload_handler - INFO - Successfully uploaded 14 records
+2025-05-20 15:52:20,525 - upload_handler - INFO - Successfully saved upload results to: ../analysis/test_results/edge_cases/mixed_valid_invalid/upload_results.json
+2025-05-20 15:52:20,525 - inventory_processor - INFO - Successfully generated summary report: ../analysis/test_results/edge_cases/mixed_valid_invalid/upload_summary.md
+2025-05-20 15:52:20,618 - inventory_processor - INFO - Successfully read inventory file: ../analysis/test_results/edge_cases/special_characters/special_characters.xlsx
+2025-05-20 15:52:20,661 - inventory_processor - INFO - Successfully saved processed inventory to: ../analysis/test_results/edge_cases/special_characters/processed_inventory.xlsx
+2025-05-20 15:52:20,663 - upload_handler - INFO - Skipped 1 records with issues
+2025-05-20 15:52:20,663 - upload_handler - INFO - Uploading 30 records...
+2025-05-20 15:52:20,664 - upload_handler - INFO - Successfully uploaded 30 records
+2025-05-20 15:52:20,664 - upload_handler - INFO - Successfully saved upload results to: ../analysis/test_results/edge_cases/special_characters/upload_results.json
+2025-05-20 15:52:20,664 - inventory_processor - INFO - Successfully generated summary report: ../analysis/test_results/edge_cases/special_characters/upload_summary.md

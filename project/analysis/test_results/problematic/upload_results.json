@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "validation_passed": false,
+  "validation_issues": {
+    "missing_values": [
+      {
+        "field": "Price",
+        "count": 1,
+        "rows": [
+          4
+        ]
+      }
+    ],
+    "data_type_issues": [],
+    "price_below_cost": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "column_name_issues": [],
+    "special_character_issues": [
+      {
+        "field": "Class",
+        "rows": [
+          4
+        ]
+      }
+    ]
+  },
+  "error_message": null,
+  "records_processed": 5,
+  "records_with_issues": 5,
+  "validation_report": "# Inventory Data Validation Report\n\n## Summary\n- Total records: 5\n- Total issues found: 6\n\n## Missing Values\n- Field 'Price' has 1 missing values (rows: [4])\n\n## Price Below Cost\n- 4 records have Price less than Unit Cost (rows: [0, 1, 2, 3])\n\n## Special Character Issues\n- Field 'Class' has special characters in 1 rows (rows: [4])\n\n",
+  "records_uploaded": 0,
+  "records_failed": 0
+}

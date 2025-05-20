@@ -1,0 +1,97 @@
+# Vehicle Inventory System Overview
+
+## Available Data Files
+
+### Excel Files
+1. "Rating Export-Mission Ford of Dearborn-2025-05-16-0304.xls"
+   - Contains vehicle inventory data with 36 rows
+   - Includes fields: Year, Body, Stock #, VIN, Odometer, Make, Model, Series, Class, Drivetrain Type, Engine, Body, Transmission, Price, Unit Cost, J.D. Power Trade In, J.D. Power Retail Clean
+   - Appears to be an export of vehicle inventory data from the dealer management system
+
+### JSON Files
+1. "Mission Ford Cost Book effective 4.2.25.json" (165 items)
+   - Structured with 'page' and 'content' keys
+   - Corresponds to the PDF with the same name
+   - Contains pricing information for Ford vehicles
+
+2. "Protect-Retail-MI-json.json" (190 items)
+   - Structured with 'page' and 'content' keys
+   - Corresponds to the PDF with the same name
+   - Contains retail pricing information for Ford/Lincoln vehicles
+
+### PDF Files
+1. "Mission Ford Cost Book effective 4.2.25 copy.pdf" (165 pages)
+   - Contains cost pricing information for Ford/Lincoln vehicles
+   - Effective April 2025
+
+2. "Protect-Retail-MI-April25.pdf" (190 pages)
+   - Contains retail pricing information for Ford/Lincoln vehicles
+   - Includes vehicle categories and eligibility information
+   - Contains information about electric vehicle plans
+
+## System Interface (Based on Screenshots)
+
+Based on the screenshots examined, the system appears to be a dealer management system with the following components:
+
+1. Vehicle Inventory Management Interface
+   - Lists vehicles with details like make, model, year, VIN, price
+   - Allows viewing and possibly editing of vehicle details
+   - Includes pricing information display
+
+2. Data Processing Features
+   - Appears to have functionality for importing/uploading inventory data
+   - May include data validation and processing capabilities
+   - Shows various views for managing vehicle data
+
+3. Pricing Information
+   - System integrates with pricing data from cost books and retail price books
+   - Pricing appears to be specific to Ford/Lincoln vehicles
+   - Includes special pricing for electric vehicles
+
+## Potential Issues with Inventory Upload
+
+From the screenshots, particularly Screenshot 7 (Screen Shot 2025-05-20 at 11.20.06 AM.png), there appears to be an issue with the inventory upload functionality. Potential issues could include:
+
+1. Data Format Problems
+   - Inconsistencies between the format of uploaded data and expected format
+   - Missing required fields in the inventory data
+   - Incorrect data types or values
+
+2. Processing Errors
+   - Failures during data validation
+   - Issues with data transformation during import
+   - Database or storage-related errors
+
+3. Configuration Issues
+   - System configuration problems affecting inventory processing
+   - Integration issues between different components of the system
+   - Permission or access control problems
+
+## System Architecture
+
+Without access to the actual code files, the exact system architecture cannot be determined. However, based on the available data, the system likely includes:
+
+1. Frontend Interface
+   - User interface for inventory management
+   - Forms for data entry and editing
+   - Views for displaying vehicle information
+
+2. Backend Processing
+   - Data validation and processing logic
+   - Database interactions for storing and retrieving inventory data
+   - Integration with pricing information sources
+
+3. Data Storage
+   - Database for vehicle inventory information
+   - Storage for pricing data and other reference information
+
+## Next Steps for Investigation
+
+To further investigate the inventory upload issue, the following steps would be recommended:
+
+1. Locate and examine the actual code files related to inventory processing
+2. Review system logs for specific error messages related to inventory uploads
+3. Test the inventory upload functionality to reproduce the issue
+4. Analyze the data format requirements and validation rules
+
+Note: This overview is based on the available data files and screenshots. Access to the actual system code and logs would be required for a more detailed analysis.

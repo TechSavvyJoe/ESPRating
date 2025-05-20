@@ -1,0 +1,55 @@
+{
+  "success": true,
+  "validation_passed": false,
+  "validation_issues": {
+    "missing_values": [
+      {
+        "field": "VIN",
+        "count": 5,
+        "rows": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "data_type_issues": [
+      {
+        "field": "Year",
+        "expected_type": "int",
+        "rows": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      }
+    ],
+    "price_below_cost": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "column_name_issues": [],
+    "special_character_issues": [
+      {
+        "field": "Class",
+        "rows": [
+          25
+        ]
+      }
+    ]
+  },
+  "error_message": null,
+  "records_processed": 31,
+  "records_with_issues": 17,
+  "validation_report": "# Inventory Data Validation Report\n\n## Summary\n- Total records: 31\n- Total issues found: 9\n\n## Missing Values\n- Field 'VIN' has 5 missing values (rows: [6, 7, 8, 9, 10])\n\n## Data Type Issues\n- Field 'Year' has values that cannot be converted to int (rows: [11, 12, 13, 14, 15])\n\n## Price Below Cost\n- 6 records have Price less than Unit Cost (rows: [0, 1, 2, 3, 4, 5])\n\n## Special Character Issues\n- Field 'Class' has special characters in 1 rows (rows: [25])\n\n",
+  "records_uploaded": 14,
+  "records_failed": 0
+}

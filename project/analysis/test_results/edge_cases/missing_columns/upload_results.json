@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "validation_passed": false,
+  "validation_issues": {
+    "missing_values": [],
+    "data_type_issues": [],
+    "price_below_cost": [],
+    "column_name_issues": [],
+    "special_character_issues": [
+      {
+        "field": "Class",
+        "rows": [
+          25
+        ]
+      }
+    ]
+  },
+  "error_message": null,
+  "records_processed": 31,
+  "records_with_issues": 1,
+  "validation_report": "# Inventory Data Validation Report\n\n## Summary\n- Total records: 31\n- Total issues found: 1\n\n## Special Character Issues\n- Field 'Class' has special characters in 1 rows (rows: [25])\n\n",
+  "records_uploaded": 30,
+  "records_failed": 0
+}
